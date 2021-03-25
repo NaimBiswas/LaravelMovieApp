@@ -46,8 +46,7 @@
                             <a href="">
                                 <img class="rounded-full w-8 h-8 ml-4"
                                     src="https://via.placeholder.com/300.png/09f/fff
-
-C/O https://placeholder.com/"
+                                        C/O https://placeholder.com/"
                                     alt="User Avatar">
                             </a>
                         </li>
